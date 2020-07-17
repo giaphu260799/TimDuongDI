@@ -1,0 +1,239 @@
+Amsterdam, Bangkok 875 1048.74 645
+Amsterdam, Beijing 803 983.82 565
+Amsterdam, Hongkong 887 1376.29 675
+Amsterdam, Kuala Lumpur 809 1231.59 730
+Amsterdam, Las Vegas 176 2951.44 635
+Amsterdam, Paris 1243 536.89 75
+Amsterdam, San Francisco 605 3063.24 660
+Amsterdam, Seoul 855 966.06 645
+Amsterdam, Singapore 835 1575.44 735
+Amsterdam, Taipei 807 955.72 720
+Amsterdam, Tokyo 861 959.94 670
+Auckland, Bangkok 492 1113.24 720
+Auckland, Beijing 784 662.96 790
+Auckland, Hongkong 188 439.94 675
+Auckland, Kuala Lumpur 130 793.40 670
+Auckland, Los Angeles 006 1529.3 725
+Auckland, San Francisco 008 875.22 725
+Auckland, Seoul 130 1056.61 715
+Auckland, Singapore 284 733.57 625
+Auckland, Tokyo 099 726.29 655
+Bangkok, Amsterdam 876 1230.36 735
+Bangkok, Auckland 491 877.25 680
+Bangkok, Beijing 980 319.11 265
+Bangkok, Ha Noi 644 103.07 105
+Bangkok, Ho Chi Minh 802 63.33 90
+Bangkok, Hongkong 502 116.32 150
+Bangkok, Kuala Lumpur 311 89.24 130
+Bangkok, Paris 930 517.53 765
+Bangkok, Seoul 102 227.11 310
+Bangkok, Shanghai 756 196.1 195
+Bangkok, Singapore 4809 199.74 145
+Bangkok, Sydney 475 1047.14 560
+Bangkok, Taipei 398 128.99 210
+Bangkok, Tokyo 153 491.62 335
+Beijing, Amsterdam 801 1045.25 630
+Beijing, Auckland 783 932.28 730
+Beijing, Bangkok 979 298.29 300
+Beijing, Ha Noi 741 310.08 250
+Beijing, Ho Chi Minh 903 426.69 580
+Beijing, Hongkong 997 207.6 205
+Beijing, Kuala Lumpur 317 262.04 385
+Beijing, Los Angeles 983 1217.76 720
+Beijing, Paris 875 782.77 670
+Beijing, San Francisco 889 734.3 695
+Beijing, Seoul 365 178.05 115
+Beijing, Shanghai 330 225.28 140
+Beijing, Singapore 807 434.7 400
+Beijing, Sydney 173 869.98 650
+Beijing, Taipei 987 287.37 390
+Beijing, Tokyo 183 484.05 190
+Ha Noi, Bangkok 645 73.23 110
+Ha Noi, Beijing 512 382.87 325
+Ha Noi, Ho Chi Minh 799 41.64 130
+Ha Noi, Hongkong 592 206.43 120
+Ha Noi, Kuala Lumpur 517 73.81 195
+Ha Noi, Londnon 055 1070.58 750
+Ha Noi, Paris 019 758.75 760
+Ha Noi, Seoul 416 318.24 235
+Ha Noi, Shanghai 530 304.55 185
+Ha Noi, Singapore 915 97.69 200
+Ha Noi, Sydney 787 658.31 580
+Ha Noi, Taipei 576 173.39 150
+Ha Noi, Tokyo 384 607.06 265
+Ho Chi Minh, Bangkok 211 73.81 140
+Ho Chi Minh, Beijing 042 339.93 290
+Ho Chi Minh, Ha Noi 196 45.86 125
+Ho Chi Minh, Hongkong 726 226,98 180
+Ho Chi Minh, Kuala Lumpur 825 41.2 115
+Ho Chi Minh, Paris 2107 730.95 815
+Ho Chi Minh, Seoul 408 318.67 280
+Ho Chi Minh, Shanghai 522 299.65 240
+Ho Chi Minh, Singapore 111 97.4 120
+Ho Chi Minh, Sydney 773 712.75 530
+Ho Chi Minh, Taipei 030 112.97 195
+Ho Chi Minh, Tokyo 300 623.08 320
+Hongkong, Amsterdam 271 1752.78 765
+Hongkong, Auckland 113 993.86 665
+Hongkong, Bangkok 601 171.06 160
+Hongkong, Beijing 336 256.8 165
+Hongkong, Ha Noi 161 54.74 120
+Hongkong, Ho Chi Minh 877 87.5 160
+Hongkong, Kuala Lumpur 131 80.36 240
+Hongkong, Los Angeles 068 1066.8 770
+Hongkong, Paris 261 829.21 785
+Hongkong, San Francisco 002 1275.31 720
+Hongkong, Seoul 2108 127.68 185
+Hongkong, Shanghai 726 178.34 130
+Hongkong, Singapore 698 137.72 240
+Hongkong, Sydney 082 462.36 565
+Hongkong, Taipei 922 140.92 95
+Hongkong, Tokyo 032 264.23 235
+Kuala Lumpur, Auckland 131 1196.94 630
+Kuala Lumpur, Bangkok 181 49.21 120
+Kuala Lumpur, Beijing 872 201.78 385
+Kuala Lumpur, Ha Noi 516 80.36 190
+Kuala Lumpur, Ho Chi Minh 826 27.81 115
+Kuala Lumpur, Hongkong 138 106.28 240
+Kuala Lumpur, Seoul 066 245.59 315
+Kuala Lumpur, Shanghai 330 115.3 320
+Kuala Lumpur, Singapore 609 56.78 55
+Kuala Lumpur, Sydney 220 605.17 505
+Kuala Lumpur, Taipei 376 63.62 280
+Kuala Lumpur, Tokyo 048 301.64 400
+Las Vegas, Amsterdam 572 2983.93 660
+Las Vegas, Los Angeles 516 278.57 80
+Las Vegas, Paris 561 3041.84 660
+Las Vegas, San Francisco 1897 670.12 95
+Las Vegas, Seoul 006 3190.48 805
+Las Vegas, Tokyo 345 1554.04 720
+Los Angeles, Amsterdam 055 3223.96 670
+Los Angeles, Auckland 005 1445.44 770
+Los Angeles, Beijing 988 608.81 770
+Los Angeles, Hongkong 069 676.36 950
+Los Angeles, Las Vegas 720 73.29 70
+Los Angeles, Paris 923 469.96 305
+Los Angeles, San Francisco 1935 55.87 75
+Los Angeles, Seoul 201 676.36 810
+Los Angeles, Sydney 551 1205.68 895
+Los Angeles, Taipei 005 698.16 880
+Los Angeles, Tokyo 105 899.09 745
+Paris, Amsterdam 194 96.67 75
+Paris, Bangkok 931 563.68 690
+Paris, Beijing 934 789.62 65
+Paris, Ha Noi 018 705.68 680
+Paris, Ho Chi Minh 010 702.75 720
+Paris, Hong kong 260 678.13 700
+Paris, Las Vegas 186 3277.44 690
+Paris, Los Angeles 097 769.24 690
+Paris, San Francisco 710 543.50 695
+Paris, Seoul 502 879 650
+Paris, Shanghai 570 1423.3 675
+Paris, Singapore 335 1516.63 745
+Paris, Taipei 939 520.95 755
+Paris, Tokyo 216 1391.14 715
+San Francisco, Amsterdam 606 3118.13 615
+San Francisco, Auckland 007 1640.81 775
+San Francisco, Hongkong 061 344.59 910
+San Francisco, Las Vegas 714 345.63 85
+San Francisco, Los Angeles 1972 79.05 90
+San Francisco, Paris 990 1731.07 695
+San Francisco, Seoul 893 551.45 755
+San Francisco, Shanghai 891 534.13 810
+San Francisco, Singapore 029 479.83 1040
+San Francisco, Sydney 863 1383.86 900
+San Francisco, Taipei 007 629.63 830
+San Francisco, Tokyo 011 1764.84 670
+Seoul, Amsterdam 859 1269.74 695
+Seoul, Auckland 129 2102.2 670
+Seoul, Bangkok 701 397.14 350
+Seoul, Beijing 355 138.3 125
+Seoul, Ha Noi 145 253.16 310
+Seoul, Ho Chi Minh 329 112.57 330 
+Seoul, Hongkong 627 183.58 240
+Seoul, Kuala Lumpur 505 306.59 285
+Seoul, Las Vegas 005 1466.26 665
+Seoul, Los Angeles 011 1383.54 660
+Seoul, Paris 909 812.19 750
+Seoul, San Francisco 892 1017.67 625
+Seoul, Shanghai 510 204.91 110
+Seoul, Singapore 751 605.68 395
+Seoul, Sydney 121 1792.92 610
+Seoul, Taipei 887 222.59 160
+Seoul, Tokyo 203 63.84 115
+Shanghai, Amsterdam 273 979.49 725
+Shanghai, Auckland 779 919.33 680
+Shanghai, Bangkok 761 154.75 265
+Shanghai, Beijing 101 224.28 135
+Shanghai, Ha Noi 531 301.06 230
+Shanghai, Ho Chi Minh 281 212.84 250
+Shanghai, Hongkong 1305 153.01 175
+Shanghai, Kuala Lumpur 861 179.65 340
+Shanghai, Los Angeles 199 1081.94 680
+Shanghai, Los Angeles 203 814.51 680
+Shanghai, Paris 205 907.97 760
+Shanghai, San Francisco 890 814.51 660
+Shanghai, Seoul 511 240.5 90
+Shanghai, Singapore 549 186.2 350
+Shanghai, Sydney 130 482.89 640
+Shanghai, Taipei 951 92.01 115
+Shanghai, Tokyo 814 377.92 140
+Singapore, Amsterdam 836 1362.32 815
+Singapore, Auckland 293 1073.06 590
+Singapore, Bangkok 358 103.95 140
+Singapore, Beijing 976 461.63 360
+Singapore, Ha Noi 916 68.43 205
+Singapore, Ho Chi Minh 304 94.34 120
+Singapore, Hongkong 714 235.99 220
+Singapore, Kuala Lumpur 426 323.33 50
+Singapore, Paris 334 1079.46 840
+Singapore, San Francisco 028 534.86 875
+Singapore, Seoul 644 632.25 375
+Singapore, Shanghai 566 320.71 310
+Singapore, Sydney 002 1063.45 480
+Singapore, Taipei 896 110.76 275
+Singapore, Tokyo 632 633.7 390
+Sydney, Auckland 147 252.58 190
+Sydney, Bangkok 419 530.34 550
+Sydney, Beijing 419 342.26 700
+Sydney, Ha Noi 786 874.20 565
+Sydney, Ho Chi Minh 772 873.91 515
+Sydney, Hongkong 117 410.53 575
+Sydney, Kuala Lumpur 221 426.69 515
+Sydney, Los Angeles 842 710.28 820
+Sydney, San Francisco 870 881.18 815
+Sydney, Seoul 602 549.56 640
+Sydney, Shanghai 129 393.5 635
+Sydney, Singapore 001 423.93 485
+Sydney, Taipei 056 473.13 550
+Sydney, Tokyo 880 1004.78 575
+Taipei, Amsterdam 073 822.23 835
+Taipei, Bangkok 399 135.10 230
+Taipei, Beijing 186 290.14 200
+Taipei, Ha Noi 943 59.69 190
+Taipei, Ho Chi Minh 841 73.81 205
+Taipei, Hongkong 921 143.4 105
+Taipei, Kuala Lumpur 379 130.59 280
+Taipei, Los Angeles 006 997,65 690
+Taipei, Paris 557 1719.27 825
+Taipei, San Francisco 008 995.32 660
+Taipei, Seoul 668 172.37 140
+Taipei, Shanghai 006 264.23 105
+Taipei, Singapore 225 150.10 260
+Taipei, Sydney 055 938.83 555
+Taipei, Tokyo 222 269.76 160
+Tokyo, Amsterdam 862 2896.27 725
+Tokyo, Auckland 090 1328.69 630
+Tokyo, Bangkok 601 135.25 350
+Tokyo, Beijing 853 353.9 330
+Tokyo, Ha Noi 385 1114.25 375
+Tokyo, Ho Chi Minh 303 1113.53 410
+Tokyo, Hongkong 391 480.12 300
+Tokyo, Kuala Lumpur 523 389.13 470
+Tokyo, Las Vegas 341 1051.4 615
+Tokyo, San Francisco 320 2262.9 555
+Tokyo, Seoul 1075 318.24 140
+Tokyo, Shanghai 930 310.67 205
+Tokyo, Singapore 631 870.41 455
+Tokyo, Sydney 026 1532.64 575
+Tokyo, Taipei 859 137.43 245

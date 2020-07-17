@@ -1,0 +1,5 @@
+3
+Amsterdam, Kuala Lumpur 2
+New York, Ha Noi 1
+Auckland, Las Vegas 1
+San Francisco, Ho Chi Minh 1
